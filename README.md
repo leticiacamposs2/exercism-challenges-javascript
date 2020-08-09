@@ -1,5 +1,5 @@
 # 💻 Exercism Challenges JavaScript
-Resolução dos desafios de JavaScript da plataforma Exercism
+Resolução dos desafios de JavaScript da plataforma @exercism
 
 ###  Bem vindx as soluçōes da trilha JavaScript do Exercism
 
