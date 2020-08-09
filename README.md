@@ -11,8 +11,8 @@ A ideia desse repositorio é não somente compartilhar as soluçōes dos exercic
 
 Challenge   | Solution
 --------- | ------
-Hello World | [hello-world.js](./hello-world/hello-world.js)
-Two Fer| [two-fer.js](./two-fer/two-fer.js)
+[Hello World](./hello-world/README.md) | [hello-world.js](./hello-world/hello-world.js)
+[Two Fer](./two-fer/README.md) | [two-fer.js](./two-fer/two-fer.js)
 
 ---
 
