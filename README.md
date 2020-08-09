@@ -9,10 +9,11 @@ A ideia desse repositorio é não somente compartilhar as soluçōes dos exercic
 
 ---
 
-Challenge   | Solution
---------- | ------
-[Hello World](./hello-world/README.md) | [hello-world.js](./hello-world/hello-world.js)
-[Two Fer](./two-fer/README.md) | [two-fer.js](./two-fer/two-fer.js)
+Challenge   | Solution | Level
+--------- | ------ | ------ 
+[Hello World](./hello-world/README.md) | [hello-world.js](./hello-world/hello-world.js) | easy
+[Two Fer](./two-fer/README.md) | [two-fer.js](./two-fer/two-fer.js) | easy
+[Resistor Color](./resistor-color/README.md) | [resistor-color.js](./resistor-color/resistor-color.js) | easy
 
 ---
 
